@@ -1,0 +1,25 @@
+{
+  "name": "My Wealth",
+  "short_name": "My Wealth",
+  "description": "Personal Net Worth Tracker",
+  "start_url": "/my-wealth/index.html",
+  "scope": "/my-wealth/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#09111F",
+  "theme_color": "#09111F",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
